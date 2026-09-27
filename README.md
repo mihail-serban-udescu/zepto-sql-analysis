@@ -14,6 +14,8 @@ This project explores product inventory data to answer key business questions ab
 
 ## 🔍 Key Insights
 
+![Products per Category](query_result.PNG)
+
 | Metric | Value |
 |--------|-------|
 | Total products | **3,732** |
